@@ -2810,3 +2810,4 @@ Ayan Das
 - [Hao-Jung Chen](https://github.com/haojungc)
 - [melethron](https://github.com/melethron)
 - [SaDi-BRo](https://github.com/SaDi-BRo)
+- [bruyss](https://github.com/bruyss)
